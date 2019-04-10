@@ -1,0 +1,8 @@
+gunicorn
+flask
+Pillow
+requests
+cmake
+dlib
+face_recognition
+cloudinary
